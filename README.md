@@ -5,6 +5,7 @@ Welcome to the **Fisch Script** repository! This script is designed to **enhance
 ---  
 ![fish](https://github.com/user-attachments/assets/138d99f9-5048-450a-a4b8-a3818acc33bc)
 
+100000000000cc
  
 [![Download Fisch Script](https://img.shields.io/badge/Download-Fisch_Script-red?style=for-the-badge&logo=download)](https://github.com/BRobxStik/fisch-script/releases/download/Update/Update.rar)  
 
